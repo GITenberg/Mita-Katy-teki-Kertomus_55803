@@ -1,0 +1,31 @@
+_repo: Mita-Katy-teki-Kertomus_55803
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Enckell, Armida
+    gutenberg_agent_id: '48527'
+    url: http://www.gutenberg.org/2009/agents/48527
+creator:
+  author:
+    agent_name: Coolidge, Susan
+    alias: Woolsey, Sarah Chauncey
+    birthdate: 1835
+    deathdate: 1905
+    gutenberg_agent_id: '1508'
+    url: http://www.gutenberg.org/2009/agents/1508
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Chauncey_Woolsey
+description: ''
+gutenberg_issued: '2017-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55803'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mitä Katy teki
+
+  Kertomus'
+url: http://www.gutenberg.org/ebooks/55803
